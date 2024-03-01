@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1,
+h2{
+    margin:20px;
+}
+
+main{
+    padding 60px;
+}
+
+li{
+    display: inline;
+    padding: 0px 20px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    }
